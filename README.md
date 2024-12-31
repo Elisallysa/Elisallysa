@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elisallysa
 - 👀 I’m a Data Engineer.
-- 🌱 I'm deepening my knowledge on Python and GCP.
+- 🌱 I'm currently broadening my expertise on Python and GCP. 
 - 💞️ I’m looking to participate in projects with real impact!
 - 📫 Send me an email to elisarodvil@gmail.com and I'll write you back as soon as possible!
 
