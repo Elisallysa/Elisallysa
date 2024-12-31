@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elisallysa
-- 👀 I’m interested in AI, graphic arts and languages and linguistics.
-- 🌱 I’m currently learning Java (mainly) at school. I graduate in 2023!
-- 💞️ I’m looking to collaborate on social-focused projects or anything culture-oriented.
+- 👀 I’m a Data Engineer.
+- 🌱 I'm deepening my knowledge on Python and GCP.
+- 💞️ I’m looking to participate in projects with real impact!
 - 📫 Send me an email to elisarodvil@gmail.com and I'll write you back as soon as possible!
 
 <!---
